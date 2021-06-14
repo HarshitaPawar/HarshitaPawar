@@ -5,4 +5,4 @@ Hey There! I'm Harshita 👋
 - 📫 How to reach me: Instagram : @harshitavpawar 
 - 😄 Pronouns: She/Her
 
-[(https://github-readme-stats.vercel.app/api?username=HarshitaPawar)](https://github.com/HarshitaPawar/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=HarshitaPawar)](https://github.com/HarshitaPawar/github-readme-stats)
